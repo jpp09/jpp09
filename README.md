@@ -16,6 +16,7 @@
 <img align="center"alt="SAAS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 <img align="center"alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img align="center"alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img align="center"alt="REACT" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 
 ### Tecnologias que eu já possuo um dominio.
