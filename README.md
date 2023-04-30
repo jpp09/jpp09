@@ -27,4 +27,8 @@
 </div>
 <br/><br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpp09&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/><br/>
+
 ### Sou uma pessoa curiosa, e que deseja aprender mais. Estou amando esse mundo da tecnologia e pretendo me aprofundar muito mais.👓🖥️
