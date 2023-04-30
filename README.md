@@ -1,4 +1,5 @@
 ### Olá eu sou o João Pedro 🤙🏿
+### Sou uma pessoa curiosa, e que deseja aprender mais. Estou amando esse mundo da tecnologia e pretendo me aprofundar muito mais.🖥️<br />
 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/JK_09)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-de-oliveira-martins-222a38214/)
@@ -32,4 +33,6 @@
 
 <br/><br/>
 
-### Sou uma pessoa curiosa, e que deseja aprender mais. Estou amando esse mundo da tecnologia e pretendo me aprofundar muito mais.👓🖥️
+
+### Páginas que eu fiz utilizando as algumas das tecnologias que estou aprendendo.
+1️#️⃣ - [Brincando com responsividade](https://jpp09.github.io/Responsividade/)
