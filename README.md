@@ -6,7 +6,8 @@
 
 ### Github Resume:
 ![João Pedro status](https://github-readme-stats.vercel.app/api?username=jpp09&show_icons=true&theme=radical)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpp09&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpp09&hide_progress=true)
+
 
 ### Technology:
 
